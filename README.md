@@ -9,7 +9,7 @@ This Project contains My Source Code in React, through which I had built My Simp
 
 ## Link
 
-You can find out the [Application](https://c1phani1simha.github.io/letsClaculateIt/) Here.
+You can find out the [Application](https://c1phani1simha.github.io/letsCalculateIt/) Here.
 
 **Note: I had maintained detailed explaination with Comments! Do check it out!**
 
