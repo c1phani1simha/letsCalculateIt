@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/letsCalculateIt/static/css/main.cea0e39d.css",
+    "main.js": "/letsCalculateIt/static/js/main.eb9dcd08.js",
+    "static/js/787.6eb3cb25.chunk.js": "/letsCalculateIt/static/js/787.6eb3cb25.chunk.js",
+    "index.html": "/letsCalculateIt/index.html",
+    "main.cea0e39d.css.map": "/letsCalculateIt/static/css/main.cea0e39d.css.map",
+    "main.eb9dcd08.js.map": "/letsCalculateIt/static/js/main.eb9dcd08.js.map",
+    "787.6eb3cb25.chunk.js.map": "/letsCalculateIt/static/js/787.6eb3cb25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cea0e39d.css",
+    "static/js/main.eb9dcd08.js"
+  ]
+}
